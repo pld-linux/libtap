@@ -1,7 +1,7 @@
 Summary:	Write tests that implement the Test Anything Protocol
 Name:		libtap
 Version:	1.01
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 Source0:	http://people.freebsd.org/~nik/public_distfiles/tap-%{version}.tar.gz
